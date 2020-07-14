@@ -22,3 +22,6 @@ while guess_word != chosen_word and not(out_of_guesses):
 if out_of_guesses == True:
     print('You loose! you have ran out of goes')
     print('the word was ' + chosen_word)
+
+    #this is just a git_hub test
+    #1212
